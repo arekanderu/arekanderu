@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander Fernandez
-- 👀 I’m interested in Front-end and Web Development
+- 👀 I’m interested in Software and Web Development
 - 🌱 I’m currently looking for job opprtunities 
 - 💞️ I’m looking to collaborate on different projects that will enchance my knowledge and capabilities
 - 📫 How to reach me you can email me at lex_0523@yahoo.com 
